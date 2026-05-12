@@ -1,0 +1,62 @@
+User-agent: *
+Allow: /
+
+# Block access to admin and private paths
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin/
+Disallow: /.htaccess
+Disallow: /formspree/
+
+# ── AI Search & Answer Engine Crawlers ──────────────────────
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+
+# OpenAI content attribution
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+# Google AI Overview / Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+# Meta AI
+User-agent: FacebookBot
+Allow: /
+
+# Apple
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft Copilot / Bing AI
+User-agent: bingbot
+Allow: /
+
+# Amazon Alexa
+User-agent: ia_archiver
+Allow: /
+
+# Common Crawl (used by many AI training datasets)
+User-agent: CCBot
+Allow: /
+
+# ── Sitemaps ─────────────────────────────────────────────────
+
+Sitemap: https://synaptica.global/sitemap.xml
+Sitemap: https://blog.synaptica.global/sitemap_index.xml
