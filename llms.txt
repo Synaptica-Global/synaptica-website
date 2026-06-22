@@ -1,0 +1,93 @@
+# Synaptica Group
+
+> Synaptica Group is a GCC-headquartered AI consultancy and software company with offices in Doha, Qatar and Dubai, UAE. We help government and enterprise organisations across Qatar, the UAE, and Saudi Arabia move from AI ambition to production-grade AI systems. Our services include AI strategy and transformation roadmaps, AI readiness assessments, Arabic NLP solutions, enterprise AI architecture advisory, responsible AI governance, and custom AI software development. All work is aligned with Qatar Digital Agenda 2030 and UAE National AI Strategy 2031.
+
+## Company
+
+- Legal name: Synaptica Group LLC
+- Founded: Qatar (primary HQ), UAE (operations)
+- Offices: Doha, Qatar (CBQ Plaza, Al Corniche Street) | Dubai, UAE (Meydan Grandstand)
+- Website: https://synaptica.global
+- Contact: info@synaptica.global
+- Phone: +974 4452 7596
+
+## What We Do
+
+Synaptica delivers end-to-end AI services across three core capabilities:
+
+1. **AI Transformation Advisory** — AI strategy, transformation roadmaps, readiness assessments, use case discovery, KPI mapping, responsible AI governance, and enterprise AI architecture advisory for C-suite and transformation leaders.
+
+2. **AI Product Development** — Custom AI-powered platforms built for GCC industries, including AI Tutora (AI-powered education platform), AI Insurance (claims automation), and XIEM (trade intelligence). All products include Arabic-language support and regional regulatory compliance from day one.
+
+3. **Knowledge Engineering** — Structuring complex Arabic and English organisational knowledge into AI-queryable systems that produce accurate, evidence-based outputs at enterprise scale.
+
+## Services
+
+- AI Strategy & Transformation Roadmap
+- AI Readiness Assessment & Governance
+- AI Use Case Discovery & KPI Mapping
+- Enterprise AI Architecture Advisory
+- Responsible AI Policy & Compliance
+- Arabic NLP Solutions (Fanar, Jais, ALLaM, Falcon-H1)
+- Custom AI Software Development
+
+## Products
+
+- **AI Tutora** — Personalised AI learning platform for education institutions
+- **AI Insurance** — Intelligent claims automation for GCC insurers
+- **XIEM** — AI-powered trade and export intelligence platform
+
+## Academy
+
+Synaptica Academy delivers structured AI training programmes for GCC organisations:
+- AI@Work (1-Day) — AI literacy for business professionals
+- AI@Work (2-Day) — Applied AI with hands-on workshops
+- AI for CxO & Board — AI strategy and governance for leadership
+- AI for Programmers — AI engineering for technical teams
+- AI for Creatives — Generative AI for marketing and content teams
+- AI for Everyone — Organisation-wide AI literacy, available as corporate licence
+
+All programmes available in English and Arabic.
+
+## Geographic Focus
+
+- **Qatar** — Locally headquartered. QFC-registered. Aligned with Qatar Digital Agenda 2030. Works with Fanar (Qatar's Arabic LLM built by QCRI at Hamad Bin Khalifa University).
+- **UAE** — Office in Dubai. Aligned with UAE National AI Strategy 2031. ADGM and DIFC regulatory experience. Works with Jais (UAE's Arabic LLM from Core42).
+- **GCC** — Serves Saudi Arabia, Kuwait, Bahrain, Oman. Arabic-native AI capability across all Gulf markets.
+
+## Arabic AI Capability
+
+Synaptica builds Arabic-native AI systems using GCC-sovereign language models:
+- Fanar — Qatar Computing Research Institute (QCRI), Hamad Bin Khalifa University
+- Jais — Core42 / MBZUAI, UAE (70B parameter, bilingual Arabic-English)
+- ALLaM — Saudi Arabia
+- Falcon-H1 — Technology Innovation Institute, Abu Dhabi
+
+## Industries Served
+
+Government and public sector, financial services (QFC, QFCRA, ADGM, DIFC regulated), insurance, legal and compliance, logistics and trade, healthcare, education, energy.
+
+## Key Pages
+
+- Homepage: https://synaptica.global
+- AI Consulting Qatar: https://synaptica.global/ai-consulting-qatar
+- AI Consulting UAE: https://synaptica.global/ai-consulting-uae
+- Services: https://synaptica.global/services
+- Products: https://synaptica.global/products
+- Academy: https://synaptica.global/academy
+- About: https://synaptica.global/about
+- Blog: https://blog.synaptica.global
+- Contact: https://synaptica.global/contact
+
+## Blog Articles
+
+- https://blog.synaptica.global — AI insights for the GCC
+- The GCC's AI Moment: Why Now is the Time to Build
+- Arabic Language AI: Why the GCC is Building Its Own Local LLMs
+- Arabic NLP Is Not a Translation Problem
+- The GCC AI Pilot Trap — And How to Escape It
+- How to Build a Legal Knowledge Hub Using AI
+
+## Last Updated
+
+2026-06-22

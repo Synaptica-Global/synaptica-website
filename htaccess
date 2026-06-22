@@ -1,0 +1,29 @@
+Options -MultiViews
+RewriteEngine On
+RewriteBase /
+
+# ─── CANONICAL HOST: force non-www (https handled by Cloudflare) ──
+# Cloudflare strips www in front of origin, but this is belt-and-braces
+# in case Cloudflare is bypassed or the rule is ever removed.
+RewriteCond %{HTTP_HOST} ^www\.synaptica\.global [NC]
+RewriteRule ^(.*)$ https://synaptica.global/$1 [R=301,L]
+
+# ─── LEGACY URL CONSOLIDATION (301) ───────────────────────────────
+# Search Console flagged /qatar and /uae as "Alternate page with proper
+# canonical tag" because they conflicted with the router's canonical URLs
+# (/ai-consulting-qatar, /ai-consulting-uae). 301 redirects consolidate the
+# indexing signal onto the SEO-canonical paths used in JSON-LD and nav.
+RewriteRule ^qatar/?$ /ai-consulting-qatar [R=301,L]
+RewriteRule ^uae/?$   /ai-consulting-uae   [R=301,L]
+
+# ─── SPA ROUTING ──────────────────────────────────────────────────
+# Handle top-level SPA routes
+RewriteRule ^(about|products|services|academy|blog|contact|privacy|terms|responsible-ai|cookie-policy)/?$ index.html [L]
+
+# Handle nested routes (/blog/post-name, /services/service-name, /products/name)
+RewriteRule ^(blog|services|products)/(.+)/?$ index.html [L]
+
+# Serve existing files and directories directly, route everything else to index.html
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]
